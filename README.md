@@ -131,6 +131,7 @@ Overall, the results are consistent with the idea that **short-horizon dislocati
 ```bash
 git clone https://github.com/chasekeskinyan/momentum-reversal-crypto.git
 cd momentum-reversal-crypto
+```
 
 ### Install Dependencies
 ```bash
