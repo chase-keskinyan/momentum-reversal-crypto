@@ -162,5 +162,6 @@ Momentum_Reversal_Backtests.ipynb
 ```text
 Chase Keskinyan
 B.A. Economics, University of Michigan (2026)
+Wall Street Quants - Quant Trading Research Project
 ```
 
